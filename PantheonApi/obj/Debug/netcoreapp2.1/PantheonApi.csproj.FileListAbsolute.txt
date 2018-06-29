@@ -1,0 +1,14 @@
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.csprojAssemblyReference.cache
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.csproj.CoreCompileInputs.cache
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.RazorAssemblyInfo.cache
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.RazorAssemblyInfo.cs
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.AssemblyInfoInputs.cache
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.AssemblyInfo.cs
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/bin/Debug/netcoreapp2.1/PantheonApi.deps.json
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/bin/Debug/netcoreapp2.1/PantheonApi.runtimeconfig.json
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/bin/Debug/netcoreapp2.1/PantheonApi.runtimeconfig.dev.json
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/bin/Debug/netcoreapp2.1/PantheonApi.dll
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/bin/Debug/netcoreapp2.1/PantheonApi.pdb
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.RazorTargetAssemblyInfo.cache
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.dll
+/Users/ventronik/Google Drive/Galvanize/Independant-Study/pantheon-API/PantheonApi/obj/Debug/netcoreapp2.1/PantheonApi.pdb
